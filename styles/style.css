@@ -3,7 +3,7 @@ html{
   font-size: 10px;
   font-family: "Lora", serif;
   background-color: black;
-  background-image: url(styles/Hintergrund.jpg);
+  background-image: url(/styles/Hintergrund.jpg);
 }
 h1{
     font-size: 50px;
